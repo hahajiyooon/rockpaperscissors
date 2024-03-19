@@ -1,0 +1,18 @@
+.box{
+  border: 1px solid black;
+  width: 500px;
+}
+
+.tie{border: 3px solid black}
+.win{border: 3px solid green}
+.lose{border: 3px solid red}
+
+.item-img{
+  width: 400px;
+  height: 300px;
+}
+
+.main{ 
+  display: flex; /*가로 정렬*/
+  justify-content: center;/*가운데 정렬*/
+}
